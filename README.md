@@ -36,3 +36,6 @@ arduino
 jupyter notebook "8. Turkiye Student Evaluation Analysis - Clustering.ipynb"
 Conclusion
 The clustering analysis helps to identify patterns in student evaluations, which can be valuable for improving course delivery and understanding student needs.
+
+here the video explanation of the above code 
+https://1drv.ms/v/c/46e17f20539c6739/EdKMdO4qu9ZJu4PfJPe_IfABnygKLCCpxaQZwAigyDAorg?e=q2jh8s
